@@ -1,0 +1,6 @@
+print("IPL")
+print("HP")
+print("MI")
+print("IPL")
+print("HP")
+print("MI")
